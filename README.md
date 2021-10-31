@@ -2,11 +2,20 @@
 # Project Title: Smart Cooling System
 Navigation: Table <br />
 Proposal Folder: [Project Proposal Link](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/IoTProject%20Proposal.pdf)<br />
-Project Folder: [Project Folder Link](https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/DjangoProject/src)<br />
+App: [Project Folder Link](https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/DjangoProject/src)<br />
 Device Model: [Device Model](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/models.py)<br />
 User Authentication: [Authentication](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/settings.py)<br />
 Post/Get Handler: [Post/Get API calls](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/views.py)<br />
 Serializer: [Serializer](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/serializers.py)<br />
+URL Handler: [url](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/urls.py)
+
+-----------UseCase Mapping-------------<br />
+---Usecase (UC)----|----Table----------<br />
+Application UC     | App<br />
+Management  UC     | Device Model<br />
+Communication UC   | URL<br />
+Secuirty UC        | User Authentication<br />
+Service UC         | Serializer<br />
 
 # Team Members
 Group 3: Mitul Patel, Sarthak Sharma, Adam Wong Chew Onn, Matthew English
