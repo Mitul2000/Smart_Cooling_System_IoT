@@ -1,12 +1,12 @@
 
 # Project Title: Smart Cooling System
 Navigation:
-[Project Proposal Link:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/IoTProject%20Proposal.pdf)
-[Project Folder Link:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/DjangoProject/src)
-[Device Model:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/models.py)
-[Authentication:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/settings.py)
-[Post/Get API calls:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/views.py)
-[Serializer:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/serializers.py)
+[Project Proposal Link:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/IoTProject%20Proposal.pdf)<br />
+[Project Folder Link:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/DjangoProject/src)<br />
+[Device Model:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/models.py)<br />
+[Authentication:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/settings.py)<br />
+[Post/Get API calls:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/views.py)<br />
+[Serializer:](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/serializers.py)<br />
 
 # Team Members
 Group 3: Mitul Patel, Sarthak Sharma, Adam Wong Chew Onn, Matthew English
