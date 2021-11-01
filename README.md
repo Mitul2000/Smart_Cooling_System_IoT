@@ -2,6 +2,7 @@
 # Project Title: Smart Cooling System
 Navigation: Table <br />
 Proposal Folder: [Project Proposal Link](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/IoTProject%20Proposal.pdf)<br />
+Assignment2: 
 App: [App](https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/DjangoProject/src)<br />
 Device Model: [Device Model](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/models.py)<br />
 User Authentication: [Authentication](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/settings.py)<br />
