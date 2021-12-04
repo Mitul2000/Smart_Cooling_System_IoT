@@ -16,9 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from .views import TestView
+from api.views import TempList, TempDetails
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api-auth/', include('rest_framework.urls')),
     path('',TestView.as_view(), name='test')
+    path('api/temp',TempList.as_view()),
+    path('api/temp/<int:pk>', TempDetails.as_view())
 ]

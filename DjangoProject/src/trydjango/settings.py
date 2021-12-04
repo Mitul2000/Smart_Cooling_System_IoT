@@ -31,6 +31,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'accounts',
+    'api'
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -131,3 +133,5 @@ REST_FRAMEWORK= {
         'rest_framework.authentication.TokenAuthentication'
     ]
 }
+STATIC_URL = '/static/'
+LOGIN_REDIRECT_URL =  '/accounts/dashboard/'
