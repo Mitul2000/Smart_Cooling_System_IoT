@@ -14,12 +14,12 @@ DD: [Deployment Design Decision](https://github.com/Mitul2000/Smart_Cooling_Syst
 DD: [Microcontroller Design Decision](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Design%20Decision/IoT%20Microcontroller%20Design%20Decision.pdf) <br />
 <br />
 Code <br />
-Arduino: [Smart Fan Code] (https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Code/Arduino_Code/prototype.ino) <br />
-Mobile App: [Mobile App Code] (https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/Code/SmartCooling_MobileApp/Smart_Cooling) <br />
-Django: [Digtial Ocean Backend Code] (https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/Code/Django_Backend/DjangoProject) <br />
+Arduino: [Smart Fan Code](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Code/Arduino_Code/prototype.ino) <br />
+Mobile App: [Mobile App Code](https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/Code/SmartCooling_MobileApp/Smart_Cooling) <br />
+Django: [Digtial Ocean Backend Code](https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/Code/Django_Backend/DjangoProject) <br />
 <br />
 Acceptance Test <br />
-[UC Acceptance Test] (https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Acceptance%20Test/Acceptance%20Testing.pdf) <br />
+[UC Acceptance Test](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Acceptance%20Test/Acceptance%20Testing.pdf) <br />
 <br />
 Screen Dump
 
