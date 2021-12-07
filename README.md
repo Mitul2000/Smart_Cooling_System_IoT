@@ -1,8 +1,28 @@
 
 # Project Title: Smart Cooling System
 Navigation: Table <br />
-Proposal Folder: [Project Proposal Link](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Project_Proposal/IoT_Project%20Proposal.pdf)<br />
-Assignment2: [Assignment2 Report](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Assignment%202.pdf)<br />
+Architecture Design <br/ >
+AD: [Digital Ocean Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/Digital%20Ocean%20Architecture.pdf)<br />
+AD: [IoT Product Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/IoT%20Product%20Architecture.pdf)<br />
+AD: [Mobile Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/Mobile%20Design%20and%20Architecture.pdf)<br />
+AD: [System Deployment Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/System%20Deployment%20Architecture.pdf)<br />
+AD: [Midterm Progress Architecture] (https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Midterm_Progress/Assignment%202.pdf) <br />
+<br />
+Design Decision <br />
+DD: [Architecture Design Decision](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Design%20Decision/Architecture%20Design%20Decision.pdf) <br />
+DD: [Deployment Design Decision](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Design%20Decision/Deployment%20Design%20Decision.pdf)  <br />
+DD: [Microcontroller Design Decision](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Design%20Decision/IoT%20Microcontroller%20Design%20Decision.pdf) <br />
+<br />
+Code <br />
+Arduino: [Smart Fan Code] (https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Code/Arduino_Code/prototype.ino) <br />
+Mobile App: [Mobile App Code] (https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/Code/SmartCooling_MobileApp/Smart_Cooling) <br />
+Django: [Digtial Ocean Backend Code] (https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/Code/Django_Backend/DjangoProject) <br />
+<br />
+Acceptance Test <br />
+[UC Acceptance Test] (https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Acceptance%20Test/Acceptance%20Testing.pdf) <br />
+<br />
+Screen Dump
+
 App: [App](https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/DjangoProject/src)<br />
 Device Model: [Device Model](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/models.py)<br />
 User Authentication: [Authentication](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/settings.py)<br />
