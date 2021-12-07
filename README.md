@@ -30,7 +30,6 @@ Demo 1 shows how users can navigate the Django Backend on Digital Ocean.<br />
 - Shows dashboard<br />
 - Shows Adding Devices<br />
 Shows Admin Models for Devices, Users and Temperature <br />
-<br />
 Video Demo 2 [IoT Communication Between Smart Fan, Django Backend, and Phone App](https://www.youtube.com/watch?v=XeilLnb-hZo)<br />
 Demo 2 shows the communication between NodeMCU, Django backend on Digital Ocean and the Phone app.<br />
 - Shows Smart Fan sending messages to the Django backend REST using POST<br />
