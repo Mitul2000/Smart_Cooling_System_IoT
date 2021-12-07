@@ -1,6 +1,8 @@
 
 # Project Title: Smart Cooling System
 Navigation: Table <br />
+Requirements<br />
+User and Backend Requirements: [Req](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Midterm_Progress/IoT_Project%20Proposal.pdf)<br /><br />
 Architecture Design <br />
 AD: [Digital Ocean Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/Digital%20Ocean%20Architecture.pdf)<br />
 AD: [IoT Product Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/IoT%20Product%20Architecture.pdf)<br />
