@@ -1,7 +1,7 @@
 
 # Project Title: Smart Cooling System
 Navigation: Table <br />
-Architecture Design <br/ >
+Architecture Design <br />
 AD: [Digital Ocean Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/Digital%20Ocean%20Architecture.pdf)<br />
 AD: [IoT Product Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/IoT%20Product%20Architecture.pdf)<br />
 AD: [Mobile Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/Mobile%20Design%20and%20Architecture.pdf)<br />
