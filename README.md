@@ -6,7 +6,7 @@ AD: [Digital Ocean Architecture](https://github.com/Mitul2000/Smart_Cooling_Syst
 AD: [IoT Product Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/IoT%20Product%20Architecture.pdf)<br />
 AD: [Mobile Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/Mobile%20Design%20and%20Architecture.pdf)<br />
 AD: [System Deployment Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Architecture%20Design/System%20Deployment%20Architecture.pdf)<br />
-AD: [Midterm Progress Architecture] (https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Midterm_Progress/Assignment%202.pdf) <br />
+AD: [Midterm Progress Architecture](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Midterm_Progress/Assignment%202.pdf) <br />
 <br />
 Design Decision <br />
 DD: [Architecture Design Decision](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Design%20Decision/Architecture%20Design%20Decision.pdf) <br />
