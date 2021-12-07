@@ -36,10 +36,10 @@ Demo 2 shows the communication between NodeMCU, Django backend on Digital Ocean 
 - Shows the phone app receiving the temperature and humidity values<br />
 - Shows the Django Admin page receiving the messages and storing them.<br />
 [Mobile App Screen Dump](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Screen%20Dump/Mobile%20App%20Screen%20Dump.pdf)<br />
-Video Demo 3 [Smart Fan Manual Control from the Phone App](https://www.youtube.com/watch?v=Niaj5oV3jdU)<br />
+Video Demo 3 [Smart Fan Manual Control from the Phone App](https://www.youtube.com/watch?v=Niaj5oV3jdU)<br /><br />
 Video demo 3 shows how users are able to manually control the Smart Fan using the phone app <br />
 - When the user turns the fan on, it will turn on the Smart Fan <br />
-Video Demo 4 [Temperature Induced Actuation](https://www.youtube.com/watch?v=GqRE4CxRod4)<br />
+Video Demo 4 [Temperature Induced Actuation](https://www.youtube.com/watch?v=GqRE4CxRod4)<br /><br />
 Video Demo 2 shows how when the temperature reaches a certain value, it will automatically turn the Smart Fan on. <br />
 [Smart Fan Screen Dump](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Screen%20Dump/Smart%20Fan%20screen%20dump.pdf) <br />
 
