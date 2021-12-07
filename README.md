@@ -21,22 +21,28 @@ Django: [Digtial Ocean Backend Code](https://github.com/Mitul2000/Smart_Cooling_
 Acceptance Test <br />
 [UC Acceptance Test](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Acceptance%20Test/Acceptance%20Testing.pdf) <br />
 <br />
-Screen Dump
+Screen Dump <br />
+[Backend SS](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Screen%20Dump/Screen%20Dump%20Backend%20.pdf)<br />
+Video Demo 1 [Django Website on Digital Ocean for IoT user client demo](https://www.youtube.com/watch?v=u46W_t83d8A)<br />
+Demo 1 shows how users can navigate the Django Backend on Digital Ocean.<br />
+- Shows user login <br />
+- Shows user registration <br />
+- Shows dashboard<br />
+- Shows Adding Devices<br />
+Shows Admin Models for Devices, Users and Temperature <br />
+Video Demo 2 [IoT Communication Between Smart Fan, Django Backend, and Phone App](https://www.youtube.com/watch?v=XeilLnb-hZo)<br />
+Demo 2 shows the communication between NodeMCU, Django backend on Digital Ocean and the Phone app.<br />
+- Shows Smart Fan sending messages to the Django backend REST using POST<br />
+- Shows the phone app receiving the temperature and humidity values<br />
+- Shows the Django Admin page receiving the messages and storing them.<br />
+[Mobile App Screen Dump](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Screen%20Dump/Mobile%20App%20Screen%20Dump.pdf)<br />
+Video Demo 3 [Smart Fan Manual Control from the Phone App](https://www.youtube.com/watch?v=Niaj5oV3jdU)<br />
+Video demo 3 shows how users are able to manually control the Smart Fan using the phone app <br />
+- When the user turns the fan on, it will turn on the Smart Fan <br />
+Video Demo 4 [Temperature Induced Actuation](https://www.youtube.com/watch?v=GqRE4CxRod4)<br />
+Video Demo 2 shows how when the temperature reaches a certain value, it will automatically turn the Smart Fan on. <br />
+[Smart Fan Screen Dump](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/Screen%20Dump/Smart%20Fan%20screen%20dump.pdf) <br />
 
-App: [App](https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/DjangoProject/src)<br />
-Device Model: [Device Model](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/models.py)<br />
-User Authentication: [Authentication](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/settings.py)<br />
-Post/Get Handler: [Post/Get API calls](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/views.py)<br />
-Serializer: [Serializer](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/serializers.py)<br />
-URL Handler: [url](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/urls.py)
-
------------UseCase Mapping-------------<br />
----Usecase (UC)----|----Table----------<br />
-Application UC------>[App](https://github.com/Mitul2000/Smart_Cooling_System_IoT/tree/main/DjangoProject/src)<br />
-Management  UC---->[Device Model](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/models.py)<br />
-Communication UC->[CRUD](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/views.py)<br />
-Secuirty UC--------->[User Auth](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/trydjango/settings.py)<br />
-Service UC---------->[Middleware](https://github.com/Mitul2000/Smart_Cooling_System_IoT/blob/main/DjangoProject/src/temperature/serializers.py)<br />
 
 # Team Members
 Group 3: Mitul Patel, Sarthak Sharma, Adam Wong Chew Onn, Matthew English
